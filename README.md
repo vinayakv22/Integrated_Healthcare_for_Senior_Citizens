@@ -35,3 +35,10 @@ Work in progress22
 - ```python manage.py migrate```
 - Create SuperUser account for admin privileges ``` python manage.py createsuperuser```
 - To run server ```python manage.py runserver```
+
+## Team Members
+- Vinayak Verma(Team Leader)
+- Likhith Ayinala
+- Adarsh Palaskar
+- Bhavani Shankar Challa
+- Joel Thomas
