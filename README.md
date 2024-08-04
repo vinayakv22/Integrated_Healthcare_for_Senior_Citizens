@@ -27,7 +27,7 @@ Work in progress22
 ## Code
 
 ### Steps to setup backend server
-- Clone the repo by using the command ```git clone https://github.com/vinayakv22/Integrated_Healthcare_for_Senior_Citizens.git``
+- Clone the repo by using the command ``git clone https://github.com/vinayakv22/Integrated_Healthcare_for_Senior_Citizens.git``
 - cd into the medicare directory
 - Do ```pipenv shell```
 - ```pipenv install```
